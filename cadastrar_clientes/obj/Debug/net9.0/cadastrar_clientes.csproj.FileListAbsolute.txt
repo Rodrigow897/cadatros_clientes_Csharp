@@ -1,0 +1,14 @@
+C:\Users\rwesl\source\repos\cadastrar_clientes\cadastrar_clientes\bin\Debug\net9.0\cadastrar_clientes.exe
+C:\Users\rwesl\source\repos\cadastrar_clientes\cadastrar_clientes\bin\Debug\net9.0\cadastrar_clientes.deps.json
+C:\Users\rwesl\source\repos\cadastrar_clientes\cadastrar_clientes\bin\Debug\net9.0\cadastrar_clientes.runtimeconfig.json
+C:\Users\rwesl\source\repos\cadastrar_clientes\cadastrar_clientes\bin\Debug\net9.0\cadastrar_clientes.dll
+C:\Users\rwesl\source\repos\cadastrar_clientes\cadastrar_clientes\bin\Debug\net9.0\cadastrar_clientes.pdb
+C:\Users\rwesl\source\repos\cadastrar_clientes\cadastrar_clientes\obj\Debug\net9.0\cadastrar_clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwesl\source\repos\cadastrar_clientes\cadastrar_clientes\obj\Debug\net9.0\cadastrar_clientes.AssemblyInfoInputs.cache
+C:\Users\rwesl\source\repos\cadastrar_clientes\cadastrar_clientes\obj\Debug\net9.0\cadastrar_clientes.AssemblyInfo.cs
+C:\Users\rwesl\source\repos\cadastrar_clientes\cadastrar_clientes\obj\Debug\net9.0\cadastrar_clientes.csproj.CoreCompileInputs.cache
+C:\Users\rwesl\source\repos\cadastrar_clientes\cadastrar_clientes\obj\Debug\net9.0\cadastrar_clientes.dll
+C:\Users\rwesl\source\repos\cadastrar_clientes\cadastrar_clientes\obj\Debug\net9.0\refint\cadastrar_clientes.dll
+C:\Users\rwesl\source\repos\cadastrar_clientes\cadastrar_clientes\obj\Debug\net9.0\cadastrar_clientes.pdb
+C:\Users\rwesl\source\repos\cadastrar_clientes\cadastrar_clientes\obj\Debug\net9.0\cadastrar_clientes.genruntimeconfig.cache
+C:\Users\rwesl\source\repos\cadastrar_clientes\cadastrar_clientes\obj\Debug\net9.0\ref\cadastrar_clientes.dll
